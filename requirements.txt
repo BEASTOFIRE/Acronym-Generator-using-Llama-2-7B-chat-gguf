@@ -6,3 +6,4 @@ ctransformers
 ipykernel
 python-box
 langchain
+python-docx
